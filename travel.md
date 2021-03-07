@@ -2,6 +2,8 @@
 
 ## Places I've visited
 
+Take a look at the list of [places I've been](https://goo.gl/maps/UWbBE4UZZT3tHXnb9) in more detail.
+
 ### 🇨🇭 Switzerland
 
 * Lausanne
