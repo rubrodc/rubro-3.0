@@ -27,6 +27,7 @@
 * [Language](language.md)
 * [Games](games.md)
 * [Cinema](cinema.md)
+* [TV Series](tv-series.md)
 * [Literature](literature.md)
 * [Favourite Quotes](favourite-quotes.md)
 
