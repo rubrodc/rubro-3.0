@@ -1,0 +1,8 @@
+# Music
+
+I listen to a lot of different genres. That helps me keeping my creativity flowing.
+
+## Some of my favourites
+
+* [Daft Punk ](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi?si=vCiON3-JQmy0fMCT4Ncglw)
+
