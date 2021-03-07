@@ -17,11 +17,10 @@ Why is philosophy important?
 * **Logic** - valid logical deductions about the world. Logic helps people decide whether something is true or false
 * **Axiology** - It includes questions about the nature and classification of values and about what kinds of things have value.
 
-Search
+Search about:
 
-Existentialism
-
-Nihilism
+* Existentialism
+* Nihilism
 
 ## Notes
 

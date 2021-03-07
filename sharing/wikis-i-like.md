@@ -17,7 +17,10 @@
 * [https://wiki.waifu.haus/\#chameleon](https://wiki.waifu.haus/#chameleon)
 * [https://lyz-code.github.io/blue-book/](https://lyz-code.github.io/blue-book/)
 
-[More wiki links](https://github.com/RichardLitt/meta-knowledge)
+### More wiki links
+
+* [https://github.com/RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge)
+* [https://github.com/KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain)
 
 ## Notes
 
