@@ -1,22 +1,12 @@
 # Introduction
 
-The phrase “digital garden” is a metaphor for thinking about writing and creating that focuses less on the resulting “showpiece” and more on the process, care, and craft it takes to get there.
+This is an extension of me. Thoughts, ideas all combined to make a better version of myself.
 
-While not everybody has or works in a dirt garden, we all share a familiarity with the idea of what a garden is.
+> Everyone has a story; no one is going to tell it but you.
 
-A garden is usually a place where things grow.
+Based on digital garden, personal knowledge management, exobrain, brain dump...
 
-This is an extention of me. Thoughts, ideas all combined to make a better version of myself.
-
-Everyone has a story; no one is going to tell it but you.
-
-This is my place to grow 🌱
-
-Based on digital garden, personal knowledge management, exobrain, brain dump,
-
-You can read more [About Me](https://www.notion.so/About-Me-35dd621db85c4fb3abb2af27c9c326dd) here and find me on social media.
-
-All the information here presented are the result of my life experiences lived so far as well my knowledge of the world. You may have different opinions or points of view. If you want to debate something respectfully you can reach out to me [here](mailto:orubenrodrigues@icloud.com).
+You can read more [about me](sharing/about-me.md) here and find me on [social media](social-media.md).
 
 {% hint style="info" %}
 All the information here presented are the result of my life experiences lived so far as well my knowledge of the world. You may have different opinions or points of view. If you want to debate something respectfully you can reach out to me [here](mailto:orubenrodrigues@icloud.com).
@@ -26,7 +16,9 @@ All the information here presented are the result of my life experiences lived s
 \[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk.
 {% endhint %}
 
+## How to use this wiki?
 
+Browse the categories on the left or use the search bar above.
 
 
 
