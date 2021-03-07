@@ -1,11 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
-
-## Business
-
----
-
+* [Introduction](README.md)
+* [Meta](meta.md)
 * [Design](design/README.md)
   * [Typography](design/typography.md)
+* [Sharing](sharing/README.md)
+  * [About me](sharing/about-me.md)
 
