@@ -1,7 +1,5 @@
 # CV / Resume
 
- 
-
 For me, design is dealing with situations at a precise moment or in a time interval. I’m not a big fan of the mythical “solving problems”. If we solve them why do we keep redesign identities, cars, products, etc? Perhaps we have popularized this quick answer for when we are asked what design is ...
 
 I do believe in the methods and approaches we take in order to minimize a possible new problem.  
