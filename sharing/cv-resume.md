@@ -10,8 +10,6 @@ I do believe in the methods and approaches we take in order to minimize a possib
 As Massimo Vignelli said, the life of a designer is a life of struggle, the struggle against bad design. And there is a lot of bad design around this world.  
 I will always try to fight it with 3 essential things in mind: My design must be simple, memorable and long lasting.
 
-
-
 ## Work Experience
 
 _October 2020 - Now_  
