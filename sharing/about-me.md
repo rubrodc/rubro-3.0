@@ -24,5 +24,5 @@ While he spends most of his days on the computer, he is passionate about finding
 * Grupo Vitor Monteiro
 * TEK Biomasse
 
-You can check my [CV / Resumé](https://www.notion.so/CV-Resum-e37326ef09604233a05b818e8037dc7f) here. I'm currently working on a project with some friends called [Crowdphare](http://crowdphare.com).
+If you want a more detailed info about me you can check my [CV / Resumé](cv-resume.md). I'm currently working on a project with some friends called [Crowdphare](http://crowdphare.com).
 

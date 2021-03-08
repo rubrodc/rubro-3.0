@@ -5,6 +5,7 @@
 * [ℹ️ Meta](meta.md)
 * [Sharing](sharing/README.md)
   * [About me](sharing/about-me.md)
+  * [CV / Resume](sharing/cv-resume.md)
   * [People I admire](sharing/people-i-admire.md)
   * [Things I own](sharing/things-i-own.md)
   * [What I'm doing now](sharing/what-im-doing-now.md)

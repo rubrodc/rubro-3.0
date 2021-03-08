@@ -2,6 +2,7 @@
 
 ## Now
 
+* Working on [Crowdphare](www.crowdphare.com) with some friends
 * Searching for a new job
 * Currently practicing social distancing
 * Trying to archive design works
