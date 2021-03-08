@@ -1,4 +1,4 @@
-# Arts
+# 🎭 Arts
 
 > From Wikipedia
 

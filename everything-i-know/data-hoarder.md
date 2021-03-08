@@ -1,4 +1,4 @@
-# Data Hoarder
+# 💾 Data Hoarder
 
 Data Hoarding is the act of acquiring and storing data from the Internet, in large quantities.
 

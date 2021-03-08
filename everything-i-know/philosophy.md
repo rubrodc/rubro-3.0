@@ -1,4 +1,4 @@
-# Philosophy
+# 💭 Philosophy
 
 ## What is philosophy?
 

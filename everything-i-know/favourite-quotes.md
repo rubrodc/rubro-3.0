@@ -1,4 +1,4 @@
-# Favourite Quotes
+# ❝ Favourite Quotes
 
 A quote is a distilled piece of knowledge. These are some of my favorites.
 

@@ -1,4 +1,4 @@
-# Travel
+# ✈️ Travel
 
 ## Places I've visited
 

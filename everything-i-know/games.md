@@ -1,4 +1,4 @@
-# Games
+# 🎮 Games
 
 ## Games I've played
 

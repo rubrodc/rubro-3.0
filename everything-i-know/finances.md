@@ -1,4 +1,4 @@
-# Finances
+# 💶 Finances
 
 ## Types of Income
 

@@ -1,4 +1,4 @@
-# New? Start here
+# 🐣 New? Start here
 
 ## Content Structure
 

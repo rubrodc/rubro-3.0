@@ -1,4 +1,4 @@
-# Politics
+# 🏛 Politics
 
 ## Notes
 
