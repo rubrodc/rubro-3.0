@@ -1,20 +1,19 @@
 # Table of contents
 
 * [👋 Welcome](README.md)
-* [Getting Started](getting-started.md)
-* [ℹ️ Meta](meta.md)
-* [Sharing](sharing/README.md)
-  * [About me](sharing/about-me.md)
-  * [CV / Resume](sharing/cv-resume.md)
-  * [People I admire](sharing/people-i-admire.md)
-  * [Things I own](sharing/things-i-own.md)
-  * [What I'm doing now](sharing/what-im-doing-now.md)
-  * [My Workflow](sharing/my-workflow.md)
-  * [Personal Goals](sharing/personal-goals.md)
-  * [Wikis I like](sharing/wikis-i-like.md)
+* [New? Start here](meta.md)
 
 ## Everything I know
 
+* [Sharing](everything-i-know/sharing/README.md)
+  * [About me](everything-i-know/sharing/about-me.md)
+  * [CV / Resume](everything-i-know/sharing/cv-resume.md)
+  * [People I admire](everything-i-know/sharing/people-i-admire.md)
+  * [Things I own](everything-i-know/sharing/things-i-own.md)
+  * [What I'm doing now](everything-i-know/sharing/what-im-doing-now.md)
+  * [My Workflow](everything-i-know/sharing/my-workflow.md)
+  * [Personal Goals](everything-i-know/sharing/personal-goals.md)
+  * [Wikis I like](everything-i-know/sharing/wikis-i-like.md)
 * [Design](everything-i-know/design/README.md)
   * [Typography](everything-i-know/design/typography.md)
   * [Identity](everything-i-know/design/identity.md)
@@ -43,6 +42,8 @@
 * [Internet](everything-i-know/internet.md)
 * [Data Hoarder](everything-i-know/data-hoarder.md)
 * [Environment](everything-i-know/environment.md)
+* [SEO](everything-i-know/seo.md)
+* [iOS Apps](everything-i-know/ios-apps.md)
 
 ## Socials
 

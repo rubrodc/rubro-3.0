@@ -1,14 +1,6 @@
 # Design
 
-## 
-
 All things related to Design field. From ideas, notes, tutorials to resources.
-
-I also keep a list of [Graphic Designers I Love](https://www.notion.so/Graphic-Designers-I-Love-abbb70d7648c4f81be1642ff4f8c08d6) and my [Favorite New Designers](https://www.notion.so/Favorite-New-Designers-d1d8b854509f4823b30f0c0efa167fed).
-
-Typography
-
-Logo Tips
 
 ## Notes
 
@@ -40,6 +32,8 @@ Logo Tips
 * [Logo Nature](http://logonature.com/) - Collects information about successful graphic identities
 * [Why does all fast food chains have red color in their logo/brand ?](https://www.quora.com/Why-does-all-fast-food-chains-have-red-color-in-their-logo-brand)
 * [Ema Ribeira](https://emribeiractsblog.wordpress.com/)
+* [Design History](http://www.designishistory.com/) - Awesome website to learn design history
+* [Index Grafik](http://indexgrafik.fr/) 
 
 ## Resources
 

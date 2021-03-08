@@ -1,4 +1,4 @@
-# ℹ️ Meta
+# New? Start here
 
 ## Content Structure
 
