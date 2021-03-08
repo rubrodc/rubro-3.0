@@ -44,6 +44,7 @@
 * [Environment](everything-i-know/environment.md)
 * [SEO](everything-i-know/seo.md)
 * [iOS Apps](everything-i-know/ios-apps.md)
+* [Email Templates](everything-i-know/email-templates.md)
 
 ## Socials
 
