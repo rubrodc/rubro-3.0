@@ -32,4 +32,5 @@
 * [Language](language.md)
 * [Games](games.md)
 * [Favourite Quotes](favourite-quotes.md)
+* [macOS Apps](macos-apps.md)
 
