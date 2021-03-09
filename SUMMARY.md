@@ -52,7 +52,8 @@
 * [🗣 Communication](everything-i-know/communication/README.md)
   * [🔤 Abbreviations](everything-i-know/communication/abbreviations.md)
   * [✉️ Email Templates](everything-i-know/communication/email-templates.md)
-* [TIL](everything-i-know/til.md)
+* [👨‍🏫 TIL](everything-i-know/til.md)
+* [🎣 Fishing](everything-i-know/fishing.md)
 
 ## Socials
 
