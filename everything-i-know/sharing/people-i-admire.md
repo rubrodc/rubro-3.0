@@ -34,4 +34,5 @@ You can also follow my [Pinterest](https://www.pinterest.pt/rubrodc/people-i-lov
 ## Illustrators
 
 * [Malika Favre](https://www.malikafavre.com/)
+* [Yoshiyuki Yagi](https://dribbble.com/y_designs)
 
