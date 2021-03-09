@@ -1,7 +1,7 @@
 # LPT - Life Pro Tips
 
 {% hint style="warning" %}
-The list here presented are original from other user I saw on Reddit.   
+The list here presented are original from other user I saw on Reddit.  
 It needs a personal review.
 {% endhint %}
 

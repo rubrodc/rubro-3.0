@@ -64,8 +64,6 @@
 
 ## Socials
 
----
-
 * [Instagram](https://instagram.com/rubrodc)
 * [Twitter](https://twitter.com/rubrodc)
 * [Pinterest](https://www.pinterest.pt/rubrodc/_saved/)
