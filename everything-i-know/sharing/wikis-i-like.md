@@ -17,6 +17,7 @@
 * [https://wiki.waifu.haus/\#chameleon](https://wiki.waifu.haus/#chameleon)
 * [https://lyz-code.github.io/blue-book/](https://lyz-code.github.io/blue-book/)
 * [https://exobrain.sean.fish/sitemap/](https://exobrain.sean.fish/sitemap/)
+* [https://github.com/nobitagit/knowledge](https://github.com/nobitagit/knowledge)
 
 ### More wiki links
 

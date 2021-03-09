@@ -1,5 +1,26 @@
 # 💲 Cryptocurrencies
 
+## My Crypto
+
+Currently I'm HODLing
+
+* BTC 
+* ETH
+* LTC
+* DASH
+* ADA
+* DOT
+* BAT 
+* DOGE ofc such gains much wow
+
+![I love DOGE](../.gitbook/assets/image%20%282%29.png)
+
+
+
+
+
+
+
 ## Notes
 
 ## Links
