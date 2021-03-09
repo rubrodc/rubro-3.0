@@ -4,6 +4,10 @@
 
 > Take something that people do, and remove a step \(or make that step very very easy\). That's the key to a successful startup.
 
+## Take this
+ 
+this is a test hello hello
+
 ## Links
 
 * [Gumroad Public Wiki](https://www.notion.so/Public-Wiki-72663c59ed5a432a9d52accafd8f166e)
