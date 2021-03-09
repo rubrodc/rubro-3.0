@@ -6,6 +6,7 @@ You can also follow my [Pinterest](https://www.pinterest.pt/rubrodc/people-i-lov
 
 * Paul Rand
 * Saul Bass
+* [Aaron Draplin](http://draplin.com/)
 
 ## Philosophers
 
@@ -29,4 +30,8 @@ You can also follow my [Pinterest](https://www.pinterest.pt/rubrodc/people-i-lov
 
 * Sebastião Salgado
 * Annie Leibovitz
+
+## Illustrators
+
+* [Malika Favre](https://www.malikafavre.com/)
 
