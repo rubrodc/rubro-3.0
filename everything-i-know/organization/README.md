@@ -91,4 +91,5 @@ E - Experiment
 ## Links
 
 * [August Bradley Notion Setup](https://www.youtube.com/watch?v=4-TYSah25UM)
+* [Tools for Remote Workers](https://remotehabits.com/tools/) - Collection of the best tools for working remotely
 
