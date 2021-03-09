@@ -12,7 +12,7 @@ You can also follow my [Pinterest](https://www.pinterest.pt/rubrodc/people-i-lov
 * Marcus Aurelius
 * Seneca
 * Socrates
-* 
+
 ## Painters
 
 * Van Gogh
