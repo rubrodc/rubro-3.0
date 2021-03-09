@@ -2,7 +2,7 @@
 
 This is a list of some abbreviations I've come across.
 
-Some types of abbreviations are [acronyms](https://en.wikipedia.org/wiki/Acronym) \(which are pronounceable\), [initialisms](https://en.wikipedia.org/wiki/Initialism) \(using initials only\), or grammatical [contractions](https://en.wikipedia.org/wiki/Contraction_%28grammar%29) or [crasis](https://en.wikipedia.org/wiki/Crasis).
+Some types of abbreviations are acronyms \(which are pronounceable\), initialisms \(using initials only\), or grammatical contractions or crasis.
 
 An abbreviation is a shortening by any of these, or other, methods.
 
@@ -21,4 +21,6 @@ An abbreviation is a shortening by any of these, or other, methods.
 * NDA - Non Disclosure Agreement
 * CBT - Computer Based Training
 * TIL - Today I Learned
+* ICO - Initial Coin Offering
+* ROI - Return of Investment
 
