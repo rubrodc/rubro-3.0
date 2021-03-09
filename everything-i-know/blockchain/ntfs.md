@@ -9,4 +9,7 @@ Non-fungible tokens are used to create verifiable\[[how?](https://en.wikipedia.o
 ## Links
 
 * [Tokenized art: NFTs paint bright future for artists, blockchain tech](https://cointelegraph.com/news/tokenized-art-nfts-paint-bright-future-for-artists-blockchain-tech)
+* [OpenSea](https://opensea.io/) - The Largest NTF Marketplace
+* [NiftyGateway](https://niftygateway.com/) - NTF Marketplace
+* [How to Create NFTs with IPFS and Digital Art](https://medium.com/pinata/ipfs-nfts-and-persistent-artwork-50a129587a36)
 
