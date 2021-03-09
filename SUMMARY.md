@@ -19,6 +19,7 @@
     * [Favourite Typefaces](everything-i-know/design/typography/favourite-typefaces.md)
   * [Identity](everything-i-know/design/identity.md)
 * [🎭 Arts](everything-i-know/arts/README.md)
+  * [Architecture](everything-i-know/arts/architecture.md)
   * [Films](everything-i-know/arts/cinema.md)
   * [TV Series](everything-i-know/arts/tv-series.md)
   * [Literature](everything-i-know/arts/literature.md)
