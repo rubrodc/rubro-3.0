@@ -1,4 +1,4 @@
-# NTFs
+# 🪙 NTFs
 
 Non-fungible token
 

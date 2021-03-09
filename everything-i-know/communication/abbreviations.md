@@ -20,7 +20,7 @@ An abbreviation is a shortening by any of these, or other, methods.
 * GTD - Getting Things Done
 * NDA - Non Disclosure Agreement
 * CBT - Computer Based Training
-* TIL - Today I Learned
+* TIL - Today I Learned \([this](../til.md)\)
 * ICO - Initial Coin Offering
 * ROI - Return of Investment
 

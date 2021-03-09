@@ -32,11 +32,12 @@
 * [🏛 Politics](everything-i-know/politics.md)
 * [🆒 Social Media](everything-i-know/social-media/README.md)
   * [Youtube](everything-i-know/social-media/youtube.md)
+  * [Reddit](everything-i-know/social-media/reddit.md)
 * [👔 Fashion](everything-i-know/fashion.md)
 * [✈️ Travel](everything-i-know/travel.md)
 * [⛓ Blockchain](everything-i-know/blockchain/README.md)
-  * [NTFs](everything-i-know/blockchain/ntfs.md)
   * [💲 Cryptocurrencies](everything-i-know/blockchain/cryptocurrencies.md)
+  * [🪙 NTFs](everything-i-know/blockchain/ntfs.md)
 * [🪴 Plants](everything-i-know/plants.md)
 * [🇵🇹 Language](everything-i-know/language.md)
 * [🎮 Games](everything-i-know/games.md)
@@ -51,6 +52,7 @@
 * [🗣 Communication](everything-i-know/communication/README.md)
   * [🔤 Abbreviations](everything-i-know/communication/abbreviations.md)
   * [✉️ Email Templates](everything-i-know/communication/email-templates.md)
+* [TIL](everything-i-know/til.md)
 
 ## Socials
 
