@@ -55,7 +55,10 @@
   * [🔤 Abbreviations](everything-i-know/communication/abbreviations.md)
   * [✉️ Email Templates](everything-i-know/communication/email-templates.md)
 * [👨‍🏫 TIL](everything-i-know/til.md)
-* [🎣 Fishing](everything-i-know/fishing.md)
+* [🤸🏻‍♂️ Hobbies](everything-i-know/hobbies/README.md)
+  * [🎣 Fishing](everything-i-know/hobbies/fishing.md)
+  * [🔫 Airsoft](everything-i-know/hobbies/airsoft.md)
+  * [🚴🏻‍♂️ Cycling](everything-i-know/hobbies/cycling.md)
 * [LPT - Life Pro Tips](everything-i-know/lpt-life-pro-tips.md)
 
 ## Socials
