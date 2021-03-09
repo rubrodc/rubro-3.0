@@ -11,6 +11,8 @@ Communities I'm interested
 * [r/datacurator](https://www.reddit.com/r/datacurator/) - A place for discussion about the curation of digital data
 * [r/DataHoarder](https://www.reddit.com/r/DataHoarder/) - \([Check mine](../data-hoarder.md)\)
 * [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - A place to share and discuss visual representations of data: Graphs, charts, maps, etc.
+* [r/dogecoin](https://www.reddit.com/r/dogecoin/)
+* [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/) - layperson-friendly explanations
 
 
 
