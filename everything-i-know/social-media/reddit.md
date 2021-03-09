@@ -13,6 +13,12 @@ Communities I'm interested
 * [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - A place to share and discuss visual representations of data: Graphs, charts, maps, etc.
 * [r/dogecoin](https://www.reddit.com/r/dogecoin/)
 * [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/) - layperson-friendly explanations
+* [r/Glitch\_in\_the\_Matrix](https://www.reddit.com/r/Glitch_in_the_Matrix/) - Eye-witness event\(s\) that cannot be explained with critical thinking.
+* [r/LifeProTips](https://www.reddit.com/r/LifeProTips/) - Tips that improve your life in one way or another. \(I keep a [giant list](../lpt-life-pro-tips.md) with topics\)
+* [r/nextfuckinglevel](https://www.reddit.com/r/nextfuckinglevel/) - A subreddit for pictures, gifs and videos that are next fucking level.
+* [r/SatoshiStreetBets](https://www.reddit.com/r/SatoshiStreetBets/) - The Crypto version of WallStreetBets
+* [r/tifu](https://www.reddit.com/r/tifu/) - Dear Reddit, Today I Fucked Up
+* [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
 
 
 

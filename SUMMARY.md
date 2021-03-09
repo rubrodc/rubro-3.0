@@ -25,8 +25,10 @@
   * [Music](everything-i-know/arts/music.md)
 * [💭 Philosophy](everything-i-know/philosophy.md)
 * [🔐 Privacy](everything-i-know/privacy.md)
-* [💶 Finances](everything-i-know/finances.md)
-* [🗃 Organization](everything-i-know/organization.md)
+* [💶 Finances](everything-i-know/finances/README.md)
+  * [Trading](everything-i-know/finances/trading.md)
+* [🗃 Organization](everything-i-know/organization/README.md)
+  * [Bullet Journal Ideas](everything-i-know/organization/bullet-journal-ideas.md)
 * [💈 Business](everything-i-know/business.md)
 * [💕 Love](everything-i-know/love.md)
 * [🏛 Politics](everything-i-know/politics.md)
@@ -54,6 +56,7 @@
   * [✉️ Email Templates](everything-i-know/communication/email-templates.md)
 * [👨‍🏫 TIL](everything-i-know/til.md)
 * [🎣 Fishing](everything-i-know/fishing.md)
+* [LPT - Life Pro Tips](everything-i-know/lpt-life-pro-tips.md)
 
 ## Socials
 
