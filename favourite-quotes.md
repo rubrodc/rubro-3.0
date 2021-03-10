@@ -11,3 +11,5 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * The mind is a terrible master but an excellent servant. Make of your thoughts what you want.
 * People ignore designs that ignore people - Frank Chimero
 
+
+what? is this? hm??
