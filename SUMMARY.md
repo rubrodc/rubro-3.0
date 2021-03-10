@@ -24,6 +24,7 @@
   * [TV Series](everything-i-know/arts/tv-series.md)
   * [Literature](everything-i-know/arts/literature.md)
   * [Music](everything-i-know/arts/music.md)
+  * [Photography](everuthing-i-know/arts/photography.md)
 * [💭 Philosophy](everything-i-know/philosophy.md)
 * [🔐 Privacy](everything-i-know/privacy.md)
 * [💶 Finances](everything-i-know/finances/README.md)
@@ -61,10 +62,10 @@
   * [🔫 Airsoft](everything-i-know/hobbies/airsoft.md)
   * [🚴🏻‍♂️ Cycling](everything-i-know/hobbies/cycling.md)
 * [LPT - Life Pro Tips](everything-i-know/lpt-life-pro-tips.md)
+* [❤️ Health](everything-i-know/health.md)
 
 ## Socials
 
 * [Instagram](https://instagram.com/rubrodc)
 * [Twitter](https://twitter.com/rubrodc)
 * [Pinterest](https://www.pinterest.pt/rubrodc/_saved/)
-
