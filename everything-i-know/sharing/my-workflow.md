@@ -11,7 +11,7 @@
 
 ## Physical Stuff
 
-I like to write on my MUJI notebooks
+I like to write on my [MUJI notebooks](https://amzn.to/2PFZWZI) with [MUJI 0.5mm PP Mechanical Pencil](https://amzn.to/2PKL509)
 
 ## macOS/iOS
 
