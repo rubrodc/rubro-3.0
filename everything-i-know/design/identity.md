@@ -16,8 +16,6 @@ Hey look at this companies and their identities. The bigger the company, simpler
 
 “We are independent because we care about good design”
 
-* Organizações, ativistas e cenas relacionadas em que acreditamos na visão deles e que gostaríamos de os ajudar.
-
 How to set prices?
 
 1. Is this a good client that will allow us to create?
