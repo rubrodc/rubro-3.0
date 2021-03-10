@@ -12,4 +12,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * People ignore designs that ignore people - Frank Chimero
 
 
-what? is this? hm??
+what? is this? hm?? yes?
