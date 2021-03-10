@@ -24,6 +24,3 @@ This are terms i've found during my searhc about personal wikis
 * Knowledge Base
 * Personal Knowledge Management
 * Zettelkasten
-
-
-

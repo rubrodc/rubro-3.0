@@ -13,7 +13,3 @@ Data Hoarding is the act of acquiring and storing data from the Internet, in lar
 * Photos
 
 ## Links
-
-[teste](google.com)
-
-{== test ==}

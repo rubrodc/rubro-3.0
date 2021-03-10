@@ -28,6 +28,8 @@ You can also follow my [Pinterest](https://www.pinterest.pt/rubrodc/people-i-lov
 
 ## Photographers
 
+[Photography](photography.md)
+
 * Sebastião Salgado
 * Annie Leibovitz
 
@@ -35,4 +37,3 @@ You can also follow my [Pinterest](https://www.pinterest.pt/rubrodc/people-i-lov
 
 * [Malika Favre](https://www.malikafavre.com/)
 * [Yoshiyuki Yagi](https://dribbble.com/y_designs)
-
