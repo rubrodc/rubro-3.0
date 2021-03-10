@@ -32,4 +32,5 @@
 * [GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nkintc) - Wiki builder
 * [mkdocs](https://squidfunk.github.io/mkdocs-material-insiders/) - Create a branded static site from a set of Markdown files to host the documentation of your Open Source or commercial project – customizable, searchable, mobile-friendly, 40+ languages. Set up in 5 minutes.
 * [Zettelkasten](https://zettelkasten.de/)
+* [What {note taking\|team wiki\|personal wiki\|external brain} tool do you use?](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki) 
 
