@@ -24,7 +24,7 @@
   * [TV Series](everything-i-know/arts/tv-series.md)
   * [Literature](everything-i-know/arts/literature.md)
   * [Music](everything-i-know/arts/music.md)
-  * [Photography](everuthing-i-know/arts/photography.md)
+  * [Photography](everything-i-know/arts/photography.md)
 * [💭 Philosophy](everything-i-know/philosophy.md)
 * [🔐 Privacy](everything-i-know/privacy.md)
 * [💶 Finances](everything-i-know/finances/README.md)
