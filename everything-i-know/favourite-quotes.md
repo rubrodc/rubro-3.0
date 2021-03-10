@@ -12,3 +12,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * People ignore designs that ignore people - Frank Chimero
 * If you believe it will work out, you'll see opportunities. If you believe it won't, you will see obstacle. - Wayne Dyer
 
+
+
+test
+
