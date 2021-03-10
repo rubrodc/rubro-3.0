@@ -1,6 +1,5 @@
 # 📸 Photography
 
-test
 
 # Notes
 
