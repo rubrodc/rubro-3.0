@@ -12,10 +12,3 @@
 * [Hugo](https://gohugo.io/) - Framework for building websites
 * [Product Hunt](https://www.producthunt.com/) - The best new products in tech
 * [Notion](https://www.notion.so/) - An all-in-one workspace for your notes, tasks, wikis, and databases.
-
-test test
-
-another test
-
-test here
-
