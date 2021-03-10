@@ -1,1 +1,5 @@
 # 📸 Photography
+
+# Notes
+
+# Links
