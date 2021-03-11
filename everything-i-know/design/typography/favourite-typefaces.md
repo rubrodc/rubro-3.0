@@ -28,7 +28,7 @@
 
 ### [Garamond Premier](https://fonts.adobe.com/fonts/garamond-premier)
 
-![](../../../.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 ### [ITC Franklin Gothic](https://fonts.adobe.com/fonts/itc-franklin-gothic)
 

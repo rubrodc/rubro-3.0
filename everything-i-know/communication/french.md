@@ -1,6 +1,7 @@
 # 🇫🇷 French
 
 ## First Steps
+
 ### Les Voyelles
 
 * A - á
@@ -51,6 +52,7 @@
 * ç : cédille \(cédiilhe\)
 
 ## Verbs
+
 ### Le verbe "être" \(étrre - to be\)
 
 * Je suis \(ja suis\)
@@ -69,3 +71,4 @@
 ## Links
 
 [How to Start Learning French Efficiently – Priorities and Organisation of Topics](https://www.frenchtoday.com/blog/how-to-learn-french/how-start-french-order-topics/)
+

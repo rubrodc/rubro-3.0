@@ -6,7 +6,14 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 
 ### Export logos workflow
 
-* width 1200
+| Scale | Suffix | Format |
+| :--- | :--- | :--- |
+| 1200 px | -1200 | PNG |
+| 600 px | -600 | PNG |
+| 1200 px | -1200 | JPEG |
+| 600 px | -600 | JPEG |
+|  |  | SVG |
+|  |  | PDF |
 
 ### Ten design Principles by Dieter Rams
 
@@ -44,3 +51,4 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 
 * [Unsplash](https://unsplash.com/) - Free Commercial photos
 * [Figma](https://www.figma.com/) - the collaborative interface design tool.
+

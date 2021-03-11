@@ -1,6 +1,7 @@
 # 📜 Rules
 
 ## Life
+
 * Build the habit of exercising regularly or do some kinda of sports activity. Your body will thank you later.
 * Don't be afraid to express emotions. You never know when they might not be here to listen.
 * Take your work seriously, but not yourself.
@@ -17,4 +18,5 @@
 
 ## Design
 
-*
+\*
+
