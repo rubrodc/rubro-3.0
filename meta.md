@@ -14,7 +14,7 @@ Each topic will have a title, some description of it, usually my own thoughts an
 
 ## Terms
 
-This are terms i've found during my searhc about personal wikis
+This are terms i've found during my search about personal wikis
 
 * Digital Garden
 * Quantified Self
@@ -22,5 +22,6 @@ This are terms i've found during my searhc about personal wikis
 * Extended Mind
 * Personal Wiki
 * Knowledge Base
-* Personal Knowledge Management
+* PKM - Personal Knowledge Management
 * Zettelkasten
+* PIM - Personal Information Management
