@@ -2,13 +2,33 @@
 
 ## Notes
 
-### File Names
+### Folder Structure
 
->under development
+YYYYMMDD \_ VERSION \_ PROJECTNAME \_ FILENAME
+
+### My File Name Convention
+
+> under development. I'm still trying to find a system that works for me. So far I got this.
+
+All files which have a relation to a specific day or a point in time are prefixed with a date-stamp or according to an adopted [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. Additionally, starting a file name with such a date/time-stamp ensures that files are displayed in temporal order.
+
+`yymmdd-who made it-type of product-name of the file-size.extension`
+
+so you get something like
+
+`210311-rdc-p-palm trees-1080x1080.ai`
+
+
+type of product
+
+\(P\)oster
+
+\(S\)ticker
+
 
 no-caps-on-personal-filenames.psd
 
-YYYYMMDD \_ VERSION \_ PROJECTNAME \_ FILENAME
+
 
 So
 
@@ -20,7 +40,7 @@ YYMMDD\_
 
 02\_MERCH
 
-DDC\_002\_DDC\_PATCHES
+DDC\_002\_RDC\_PATCHES
 
 DSGN\_LOGO\_
 
@@ -28,13 +48,13 @@ DSGN\_LOGO\_
 
 **Phase of Projects**
 
-sd - schematic design
-
-cc - concept
-
-wp - work in progress
-
-v1 - version 1,2,3…
+* sd - schematic design
+* cc - concept
+* wp - work in progress
+* v1 - version 1,2,3…
+* da - Data Analysis
+* v - Version
+* e - Experiment
 
 180703\_projectname\_sd\_descriptionModel\_04
 
@@ -60,36 +80,11 @@ PRODUCT SERIAL CODE
 
 `200502_RDS_P_nomedoproduto_18x24`
 
-year
-
-YYMMDD
-
-who made it
-
-Ruben Design Studio
-
-type of product
-
-\(P\)oster
-
-\(S\)ticker
-
-nome do produto
-
-size
-
-18x24
-
-a4, a5 ...
-
-DA - Data Analysis
-
-V - Version
-
-E - Experiment
 
 ## Notes
 
 ## Links
 
 * [August Bradley Notion Setup](https://www.youtube.com/watch?v=4-TYSah25UM)
+* [How to Design File Management for a Company](https://karl-voit.at/2021/01/11/company-file-management/)
+* [Managing Digital Files (e.g., Photographs) in Files and Folders](https://karl-voit.at/managing-digital-photographs/)

@@ -17,6 +17,7 @@
 * [https://wiki.waifu.haus/\#chameleon](https://wiki.waifu.haus/#chameleon)
 * [https://lyz-code.github.io/blue-book/](https://lyz-code.github.io/blue-book/)
 * [https://exobrain.sean.fish/sitemap/](https://exobrain.sean.fish/sitemap/)
+* [https://karl-voit.at/](https://karl-voit.at/)
 
 ### More wiki links
 
@@ -30,4 +31,3 @@
 * [GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nkintc) - Wiki builder
 * [mkdocs](https://squidfunk.github.io/mkdocs-material-insiders/) - Create a branded static site from a set of Markdown files to host the documentation of your Open Source or commercial project – customizable, searchable, mobile-friendly, 40+ languages. Set up in 5 minutes.
 * [Zettelkasten](https://zettelkasten.de/)
-
