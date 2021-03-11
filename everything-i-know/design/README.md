@@ -4,6 +4,10 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 
 ## Notes
 
+### Export logos workflow
+
+* width 1200
+
 ### Ten design Principles by Dieter Rams
 
 1. Good design is innovative.
@@ -33,13 +37,10 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 * [Why does all fast food chains have red color in their logo/brand ?](https://www.quora.com/Why-does-all-fast-food-chains-have-red-color-in-their-logo-brand)
 * [Ema Ribeira](https://emribeiractsblog.wordpress.com/)
 * [Design History](http://www.designishistory.com/) - Awesome website to learn design history
-* [Index Grafik](http://indexgrafik.fr/) 
+* [Index Grafik](http://indexgrafik.fr/)
 * [A framework for simple](https://docs.google.com/presentation/d/199Soy6c77tpttuJD_8atcSfBevJMJRSXswzBibbuqOI/pub?start=false&loop=false&delayms=3000&slide=id.p) - Jeff Hilnbrand
 
 ## Resources
 
 * [Unsplash](https://unsplash.com/) - Free Commercial photos
 * [Figma](https://www.figma.com/) - the collaborative interface design tool.
-
-
-
