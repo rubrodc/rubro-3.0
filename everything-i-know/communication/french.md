@@ -1,6 +1,7 @@
 # 🇫🇷 French
 
-## Les Voyelles
+## First Steps
+### Les Voyelles
 
 * A - á
 * E - aaa
@@ -9,7 +10,7 @@
 * U - UUuuu
 * Y - I Grég
 
-## Les Consonnes \(lé consone\)
+### Les Consonnes \(lé consone\)
 
 * B - B
 * C - C
@@ -32,14 +33,14 @@
 * X - Ix
 * Z - Zéde
 
-## Les Accents \(Les açan\)
+### Les Accents \(Les açan\)
 
 * é - eh : accent aigu \(aksan égu\)
 * è - éé : accent grave \(aksan gráve\)
 * ê - éé : accent circonflexe \(aksan circonfléxe\)
 * ë - é or eh: tréma \(trémá\)
 
-## Les caractères spéciaux \(Le carractér spéciô\)
+### Les caractères spéciaux \(Le carractér spéciô\)
 
 * -: tiret \(tirré\)
 * \_ : tiret bas \(tirré bá\)
@@ -49,7 +50,8 @@
 * l' :apostrophe \(apóstrrofe\)
 * ç : cédille \(cédiilhe\)
 
-## Le verbe "être" \(étrre - to be\)
+## Verbs
+### Le verbe "être" \(étrre - to be\)
 
 * Je suis \(ja suis\)
 * Tu es \(tu é\)
@@ -67,4 +69,3 @@
 ## Links
 
 [How to Start Learning French Efficiently – Priorities and Organisation of Topics](https://www.frenchtoday.com/blog/how-to-learn-french/how-start-french-order-topics/)
-

@@ -1,6 +1,0 @@
-# 🇵🇹 Language
-
-## Notes
-
-## Links
-

@@ -1,5 +1,9 @@
 # Personal Goals
 
+## Education
+
+* Learn a new language _I'm currently learning [french](french.md)_
+
 ## Health Goals
 
 ### Mental Health Goals
@@ -13,7 +17,7 @@
 
 ## Financial Goals
 
-* Develop enough passive income to cover my lifestyle Income Streams
+* Develop enough passive income to cover my lifestyle
 * Don’t have to worry about money
 
 ## “Before I Die” Goals
@@ -25,10 +29,9 @@
 
 * Play an instrument
 * Speak multiple languages
-* Cooking
+* Better cooking
 
 ## Links
 
 * [What are some of your personal goals right now?](https://www.reddit.com/r/AskWomen/comments/8zeqvk/what_are_some_of_your_personal_goals_right_now/) - Reddit Post
 * [Deep Thought](https://www.deepthoughtapp.com/) - To help you think about life questions, and learn from other people’s answers to them.
-
