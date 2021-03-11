@@ -4,7 +4,7 @@
 
 ### File Names
 
-> under development
+>under development
 
 no-caps-on-personal-filenames.psd
 

@@ -18,8 +18,10 @@ Communities I'm interested
 * [r/LifeProTips](https://www.reddit.com/r/LifeProTips/) - Tips that improve your life in one way or another. \(I keep a [giant list](../lpt-life-pro-tips.md) with topics\)
 * [r/nextfuckinglevel](https://www.reddit.com/r/nextfuckinglevel/) - A subreddit for pictures, gifs and videos that are next fucking level.
 * [r/SatoshiStreetBets](https://www.reddit.com/r/SatoshiStreetBets/) - The Crypto version of WallStreetBets
+* [r/Stoicism](https://www.reddit.com/r/Stoicism/) - Learning and applying Stoic principles and techniques.
 * [r/tifu](https://www.reddit.com/r/tifu/) - Dear Reddit, Today I Fucked Up
 * [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
+* [r/DecidingToBeBetter](https://reddit.guide/r/DecidingToBeBetter/) - A force for self-improvement, goodness, and togetherness that helps humanity eliminate evil.
 
 ## Links
 [Reddit Guide](https://reddit.guide/) - Find similar subreddits
