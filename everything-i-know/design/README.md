@@ -4,7 +4,7 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 
 ## Notes
 
-### Export logos setup 
+### Export logos setup
 
 | Scale | Suffix | Format |
 | :--- | :--- | :--- |
@@ -51,3 +51,4 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 
 * [Unsplash](https://unsplash.com/) - Free Commercial photos
 * [Figma](https://www.figma.com/) - the collaborative interface design tool.
+
