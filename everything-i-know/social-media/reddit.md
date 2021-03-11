@@ -11,6 +11,7 @@ Communities I'm interested
 * [r/datacurator](https://www.reddit.com/r/datacurator/) - A place for discussion about the curation of digital data
 * [r/DataHoarder](https://www.reddit.com/r/DataHoarder/) - \([Check mine](../data-hoarder.md)\)
 * [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - A place to share and discuss visual representations of data: Graphs, charts, maps, etc.
+* [r/declutter](https://www.reddit.com/r/declutter/) - How to get rid of things you no longer need or want
 * [r/dogecoin](https://www.reddit.com/r/dogecoin/)
 * [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/) - layperson-friendly explanations
 * [r/Glitch\_in\_the\_Matrix](https://www.reddit.com/r/Glitch_in_the_Matrix/) - Eye-witness event\(s\) that cannot be explained with critical thinking.
@@ -19,6 +20,3 @@ Communities I'm interested
 * [r/SatoshiStreetBets](https://www.reddit.com/r/SatoshiStreetBets/) - The Crypto version of WallStreetBets
 * [r/tifu](https://www.reddit.com/r/tifu/) - Dear Reddit, Today I Fucked Up
 * [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
-
-
-

@@ -63,6 +63,7 @@
   * [🚴🏻‍♂️ Cycling](everything-i-know/hobbies/cycling.md)
 * [LPT - Life Pro Tips](everything-i-know/lpt-life-pro-tips.md)
 * [❤️ Health](everything-i-know/health.md)
+* [📜 Rules](everything-i-know/rules.md)
 
 ## Socials
 
