@@ -20,3 +20,6 @@ Communities I'm interested
 * [r/SatoshiStreetBets](https://www.reddit.com/r/SatoshiStreetBets/) - The Crypto version of WallStreetBets
 * [r/tifu](https://www.reddit.com/r/tifu/) - Dear Reddit, Today I Fucked Up
 * [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
+
+## Links
+[Reddit Guide](https://reddit.guide/) - Find similar subreddits
