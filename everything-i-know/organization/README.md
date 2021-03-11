@@ -20,13 +20,13 @@
 ### Folder Structure
 
 WORK
-  -CLIENT FOLDER
-    -PROJECT FOLDER
-      -CLIENT INPUT - stuff the client sends to me
-      -BUSINESS - quotes, schedules, proposals, etc
-      -ASSETS - images, icons, design elements
-      -DESIGN - the work per se
-      -PRODUCTION - final stuff my client needs
+-CLIENT FOLDER
+--PROJECT FOLDER
+---CLIENT INPUT - stuff the client sends to me
+---BUSINESS - quotes, schedules, proposals, etc
+---ASSETS - images, icons, design elements
+---DESIGN - the work per se
+---PRODUCTION - final stuff my client needs
 
 
 ### My File Name Convention
@@ -37,9 +37,9 @@ All files which have a relation to a specific day or a point in time are prefixe
 
 Examples
 
-`210311_rdc_PalmTrees_1080x1080.ai`
-`180703_projectname_sd_descriptionModel_04`
-`180819_rubro_sd_logo_01.sketch`
+* `210311_rdc_PalmTrees_1080x1080.ai`
+* `180703_projectname_sd_descriptionModel_04`
+* `180819_rubro_sd_logo_01.sketch`
 
 
 **abbreviations**
