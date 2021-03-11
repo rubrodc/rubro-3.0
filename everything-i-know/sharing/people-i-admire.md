@@ -9,6 +9,9 @@ You can also follow my [Pinterest](https://www.pinterest.pt/rubrodc/people-i-lov
 * [Aaron Draplin](http://draplin.com/)
 * vacaliebres
 * mtnburo
+* Lance Wyman
+* Pepe Cruz Novillo
+* Stefan Kanchev
 
 ## Philosophers
 
@@ -39,4 +42,3 @@ You can also follow my [Pinterest](https://www.pinterest.pt/rubrodc/people-i-lov
 
 * [Malika Favre](https://www.malikafavre.com/)
 * [Yoshiyuki Yagi](https://dribbble.com/y_designs)
-
