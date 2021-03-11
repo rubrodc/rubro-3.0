@@ -43,7 +43,6 @@
   * [💲 Cryptocurrencies](everything-i-know/blockchain/cryptocurrencies.md)
   * [🪙 NTFs](everything-i-know/blockchain/ntfs.md)
 * [🪴 Plants](everything-i-know/plants.md)
-* [🇵🇹 Language](everything-i-know/language.md)
 * [🎮 Games](everything-i-know/games.md)
 * [❝ Favourite Quotes](everything-i-know/favourite-quotes.md)
 * [🖥 macOS Apps](everything-i-know/macos-apps.md)
@@ -54,6 +53,7 @@
   * [SEO Meta Tags](everything-i-know/seo/seo-meta-tags.md)
 * [📱 iOS Apps](everything-i-know/ios-apps.md)
 * [🗣 Communication](everything-i-know/communication/README.md)
+  * [🇫🇷 French](everything-i-know/communication/french.md)
   * [🔤 Abbreviations](everything-i-know/communication/abbreviations.md)
   * [✉️ Email Templates](everything-i-know/communication/email-templates.md)
 * [👨‍🏫 TIL](everything-i-know/til.md)
@@ -70,3 +70,4 @@
 * [Instagram](https://instagram.com/rubrodc)
 * [Twitter](https://twitter.com/rubrodc)
 * [Pinterest](https://www.pinterest.pt/rubrodc/_saved/)
+

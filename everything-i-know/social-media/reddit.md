@@ -24,4 +24,6 @@ Communities I'm interested
 * [r/DecidingToBeBetter](https://reddit.guide/r/DecidingToBeBetter/) - A force for self-improvement, goodness, and togetherness that helps humanity eliminate evil.
 
 ## Links
+
 [Reddit Guide](https://reddit.guide/) - Find similar subreddits
+

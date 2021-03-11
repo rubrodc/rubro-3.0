@@ -1,6 +1,6 @@
-# 📸 Photography
-
+# Photography
 
 ## Notes
 
 ## Links
+

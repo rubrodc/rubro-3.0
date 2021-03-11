@@ -25,3 +25,4 @@ This are terms i've found during my search about personal wikis
 * PKM - Personal Knowledge Management
 * Zettelkasten
 * PIM - Personal Information Management
+

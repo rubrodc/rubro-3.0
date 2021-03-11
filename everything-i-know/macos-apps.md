@@ -18,3 +18,4 @@ Besides the pre-installed ones, I also use:
 * [Brave Browser](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 * [Ueli](https://ueli.app/) - A keystroke launcher for Windows and macOS
+
