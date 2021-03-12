@@ -18,6 +18,10 @@
 * [https://lyz-code.github.io/blue-book/](https://lyz-code.github.io/blue-book/)
 * [https://exobrain.sean.fish/sitemap/](https://exobrain.sean.fish/sitemap/)
 * [https://karl-voit.at/](https://karl-voit.at/)
+* [https://github.com/azer/notebook](https://github.com/azer/notebook)
+* [http://bactra.org/notebooks/](http://bactra.org/notebooks/)
+* [https://wiki.anarchist.work/](https://wiki.anarchist.work/)
+* [https://hacdias.com/](https://hacdias.com/)
 
 ### More wiki links
 
@@ -33,4 +37,3 @@
 * [Zettelkasten](https://zettelkasten.de/)
 * [What {note taking\|team wiki\|personal wiki\|external brain} tool do you use?](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki)
 * [Uses This](https://usesthis.com/) - A collection of nerdy interviews asking people from all walks of life what they use to get the job done.
-

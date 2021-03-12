@@ -20,6 +20,7 @@
 * [🖌 Design](everything-i-know/design/README.md)
   * [Typography](everything-i-know/design/typography.md)
   * [Identity](everything-i-know/design/identity.md)
+  * [Colors](everything-i-know/design/colors.md)
 * [🎭 Arts](everything-i-know/arts/README.md)
   * [Architecture](everything-i-know/arts/architecture.md)
   * [Films](everything-i-know/arts/cinema.md)
@@ -58,6 +59,7 @@
   * [🇫🇷 French](everything-i-know/communication/french.md)
   * [🔤 Abbreviations](everything-i-know/communication/abbreviations.md)
   * [✉️ Email Templates](everything-i-know/communication/email-templates.md)
+  * [Storytelling](everything-i-know/communication/storytelling.md)
 * [👨‍🏫 TIL](everything-i-know/til.md)
 * [🤸🏻‍♂️ Hobbies](everything-i-know/hobbies/README.md)
   * [🎣 Fishing](everything-i-know/hobbies/fishing.md)
@@ -66,10 +68,10 @@
 * [LPT - Life Pro Tips](everything-i-know/lpt-life-pro-tips.md)
 * [❤️ Health](everything-i-know/health.md)
 * [📜 Rules](everything-i-know/rules.md)
+* [🏞 Survival](everything-i-know/survival.md)
 
 ## Socials
 
 * [Instagram](https://instagram.com/rubrodc)
 * [Twitter](https://twitter.com/rubrodc)
 * [Pinterest](https://www.pinterest.pt/rubrodc/_saved/)
-

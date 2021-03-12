@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-This is an extension of me. Thoughts, ideas all combined to make a better version of myself.
+# This is an extension of me — thoughts, ideas, patterns, rules-of-thumb, tools, cheatsheets, leverage points, questions, risks, and unknowns. All combined to make a better version of myself.
 
 > Everyone has a story; no one is going to tell it but you.
 
@@ -35,4 +35,3 @@ I'm writing most on my notes in markdown using [Atom](https://atom.io/). Why did
 Why Atom? I love it because you can work with Git and GitHub directly from Atom with the GitHub package, so I just open the main folder and everytime I take notes I pull them up to GitHub instantly.
 
 To search my notes I'm using [ueli](https://ueli.app/). I've configured it to only search files on that specific folder, so when I press `Opt+Spacebar` a searchbar instantly pops up and I just type what I'm looking for.
-
