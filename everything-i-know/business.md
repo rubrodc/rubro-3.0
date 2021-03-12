@@ -13,3 +13,8 @@
 * [Product Hunt](https://www.producthunt.com/) - The best new products in tech
 * [Notion](https://www.notion.so/) - An all-in-one workspace for your notes, tasks, wikis, and databases.
 * [Brew](https://brew.sh/) - The Missing Package Manager for macOS (or Linux)
+* [Gatsby](https://www.gatsbyjs.com/) - The fastest frontend
+for the modern web
+* [Firebase](https://firebase.google.com/) - Firebase helps you build
+and run successful apps
+* [Vercel](https://vercel.com/) - Deploy any frontend app 

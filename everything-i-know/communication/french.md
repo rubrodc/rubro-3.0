@@ -71,4 +71,4 @@
 ## Links
 
 [How to Start Learning French Efficiently – Priorities and Organisation of Topics](https://www.frenchtoday.com/blog/how-to-learn-french/how-start-french-order-topics/)
-
+[How I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html)

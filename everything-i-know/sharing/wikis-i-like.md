@@ -24,6 +24,8 @@
 * [https://hacdias.com/](https://hacdias.com/)
 * [https://joshbuchea.com/notes/](https://joshbuchea.com/notes/)
 * [https://mek.fyi/](https://mek.fyi/)
+* [https://paul.copplest.one/](https://paul.copplest.one/)
+* [https://zettelkasten.sorenbjornstad.com/](https://zettelkasten.sorenbjornstad.com/)
 
 ### More wiki links
 
