@@ -12,4 +12,4 @@
 * [Hugo](https://gohugo.io/) - Framework for building websites
 * [Product Hunt](https://www.producthunt.com/) - The best new products in tech
 * [Notion](https://www.notion.so/) - An all-in-one workspace for your notes, tasks, wikis, and databases.
-
+* [Brew](https://brew.sh/) - The Missing Package Manager for macOS (or Linux)

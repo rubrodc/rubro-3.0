@@ -22,6 +22,8 @@
 * [http://bactra.org/notebooks/](http://bactra.org/notebooks/)
 * [https://wiki.anarchist.work/](https://wiki.anarchist.work/)
 * [https://hacdias.com/](https://hacdias.com/)
+* [https://joshbuchea.com/notes/](https://joshbuchea.com/notes/)
+* [https://mek.fyi/](https://mek.fyi/)
 
 ### More wiki links
 

@@ -8,6 +8,8 @@ Based on digital garden, personal knowledge management, exobrain, brain dump...
 
 You can read more [about me](everything-i-know/sharing/about-me.md) and find me on [social media](everything-i-know/social-media/).
 
+If you are still confused, [Josh Buchea](https://joshbuchea.com/whats-a-digital-garden/) has some nice explanations on his digital garden about what this is, go take a look 👀
+
 {% hint style="info" %}
 All the information here presented are the result of my life experiences lived so far as well my knowledge of the world. You may have different opinions or points of view. If you want to debate something respectfully you can reach out to me [here](mailto:orubenrodrigues@icloud.com).
 {% endhint %}
