@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-# This is an extension of me — thoughts, ideas, patterns, rules-of-thumb, tools, cheatsheets, leverage points, questions, risks, and unknowns. All combined to make a better version of myself.
+## This is an extension of me — thoughts, ideas, patterns, rules-of-thumb, tools, cheatsheets, leverage points, questions, risks, and unknowns. All combined to make a better version of myself.
 
 > Everyone has a story; no one is going to tell it but you.
 
