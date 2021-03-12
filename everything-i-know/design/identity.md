@@ -48,8 +48,6 @@ We need to meetup the CEO at first. We can’t just meet him on the logo present
 
 We need to hear him and he needs to trust us, so when we go back and we do recommendations he can listen to us.
 
-{%youtube%}Fz-XGd8EX3U{%endyoutube%}
-
 > Notes from [🔴 What Makes A Logo Great & Iconic? w/ Sagi Haviv](https://youtu.be/Fz-XGd8EX3U)
 
 ## Links

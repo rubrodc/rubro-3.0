@@ -17,4 +17,5 @@
 for the modern web
 * [Firebase](https://firebase.google.com/) - Firebase helps you build
 and run successful apps
-* [Vercel](https://vercel.com/) - Deploy any frontend app 
+* [Vercel](https://vercel.com/) - Deploy any frontend app
+* [Canny](https://canny.io/) - Build better products with customer feedback
