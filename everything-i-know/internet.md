@@ -3,7 +3,7 @@
 
 ## Netlify
 
-Hosting and Deploy on Netlify
+### Hosting and Deploy on Netlify
 
 ```
 [build]
