@@ -36,7 +36,7 @@ HUGO_VERSION = "0.81.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-``
+```
 
 ## Domain services
 
