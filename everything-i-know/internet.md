@@ -6,7 +6,6 @@
 Hosting and Deploy on Netlify
 
 ```
-
 [build]
 publish = "public"
 command = "hugo --gc --minify"
@@ -37,10 +36,10 @@ HUGO_VERSION = "0.81.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-```
+``
 
 ## Domain services
 
 * [NameCheap](https://www.namecheap.com/)
 * [Hover](https://www.hover.com/)
+* [Hosting on Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
