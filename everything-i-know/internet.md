@@ -1,6 +1,13 @@
 # 🌐 Internet
 
 
+
+## Hugo
+### How to create static Pages
+
+* Created an empty file content/aboutus/_index.md
+* Created aboutus.html page layouts/section/aboutus.html
+
 ## Netlify
 
 ### Hosting and Deploy on Netlify
