@@ -50,4 +50,8 @@ We need to hear him and he needs to trust us, so when we go back and we do recom
 
 > Notes from [🔴 What Makes A Logo Great & Iconic? w/ Sagi Haviv](https://youtu.be/Fz-XGd8EX3U)
 
+## Brand Guidelines
+
+[Mailchimp Style Guide](https://styleguide.mailchimp.com/)
+
 ## Links

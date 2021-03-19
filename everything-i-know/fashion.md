@@ -37,6 +37,7 @@ Below are some concepts and key ideas from my college essays.
 * [Chad Park](https://www.instagram.com/chad_park_/)
 * [Massimo Pirrone](https://www.instagram.com/pirronemassimo/)
 * [José María Lacort](https://www.instagram.com/jm_lacort/)
+* [Kevis Manzi](https://www.instagram.com/kevismanzi/)
 * [Erik Mannby](https://www.instagram.com/erikmannby/)
 * [Jason Yeats](https://www.instagram.com/jason_yeats/)
 * [Derek Bleazard](https://www.instagram.com/derekbleazard/)
