@@ -31,17 +31,17 @@ Below are some concepts and key ideas from my college essays.
 * Fashion is susceptible to beliefs, religions and cultures.
 
 ## Instagram accounts
-* ![Alessandro Squarzi](https://www.instagram.com/alessandrosquarzi/)
-* ![Luca Rubinacci](https://www.instagram.com/luca_rubinacci/)
-* ![Shuhei Nishiguchi](https://www.instagram.com/shuhei_nishiguchi/)
-* ![Chad Park](https://www.instagram.com/chad_park_/)
-* ![Massimo Pirrone](https://www.instagram.com/pirronemassimo/)
-* ![José María Lacort](https://www.instagram.com/jm_lacort/)
-* ![Erik Mannby](https://www.instagram.com/erikmannby/)
-* ![Jason Yeats](https://www.instagram.com/jason_yeats/)
-* ![Derek Bleazard](https://www.instagram.com/derekbleazard/)
-* ![Gabriel Cohen](https://www.instagram.com/gabrielhcohen/)
-* ![Johan Salomonsson](https://www.instagram.com/mrsalomonsson/)
+* [Alessandro Squarzi](https://www.instagram.com/alessandrosquarzi/)
+* [Luca Rubinacci](https://www.instagram.com/luca_rubinacci/)
+* [Shuhei Nishiguchi](https://www.instagram.com/shuhei_nishiguchi/)
+* [Chad Park](https://www.instagram.com/chad_park_/)
+* [Massimo Pirrone](https://www.instagram.com/pirronemassimo/)
+* [José María Lacort](https://www.instagram.com/jm_lacort/)
+* [Erik Mannby](https://www.instagram.com/erikmannby/)
+* [Jason Yeats](https://www.instagram.com/jason_yeats/)
+* [Derek Bleazard](https://www.instagram.com/derekbleazard/)
+* [Gabriel Cohen](https://www.instagram.com/gabrielhcohen/)
+* [Johan Salomonsson](https://www.instagram.com/mrsalomonsson/)
 
 ## Links
 
