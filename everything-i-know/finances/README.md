@@ -26,3 +26,4 @@ How to spend money? Spend as if you will never be able to raise again.
 ## Links
 
 [Dave Ramsey Baby Steps](https://www.daveramsey.com/dave-ramsey-7-baby-steps) - Basics to Financial Freedom
+

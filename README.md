@@ -37,3 +37,4 @@ I'm writing most on my notes in markdown using [Atom](https://atom.io/). Why did
 Why Atom? I love it because you can work with Git and GitHub directly from Atom with the GitHub package, so I just open the main folder and everytime I take notes I pull them up to GitHub instantly.
 
 To search my notes I'm using [ueli](https://ueli.app/). I've configured it to only search files on that specific folder, so when I press `Opt+Spacebar` a searchbar instantly pops up and I just type what I'm looking for.
+
