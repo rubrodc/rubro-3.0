@@ -46,6 +46,8 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 * [Design History](http://www.designishistory.com/) - Awesome website to learn design history
 * [Index Grafik](http://indexgrafik.fr/)
 * [A framework for simple](https://docs.google.com/presentation/d/199Soy6c77tpttuJD_8atcSfBevJMJRSXswzBibbuqOI/pub?start=false&loop=false&delayms=3000&slide=id.p) - Jeff Hilnbrand
+* [101 Design Rules by Brian Collins](https://www.wearecollins.com/ideas/101-design-rules/)
+
 
 ## Resources
 

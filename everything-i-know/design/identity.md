@@ -55,3 +55,5 @@ We need to hear him and he needs to trust us, so when we go back and we do recom
 [Mailchimp Style Guide](https://styleguide.mailchimp.com/)
 
 ## Links
+
+* [Logo Book](http://www.logobook.com/) - Discover the worlds finest logos, symbols & trademarks.
