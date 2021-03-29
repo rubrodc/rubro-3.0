@@ -49,7 +49,8 @@
 * [🎮 Games](everything-i-know/games.md)
 * [❝ Favourite Quotes](everything-i-know/favourite-quotes.md)
 * [🖥 macOS Apps](everything-i-know/macos-apps.md)
-* [🌐 Internet](everything-i-know/internet.md)
+* [🌐 Internet](everything-i-know/internet/README.md)
+  * [Coding](everything-i-know/internet/coding.md)
 * [💾 Data Hoarder](everything-i-know/data-hoarder.md)
 * [🌿 Environment](everything-i-know/environment.md)
 * [📈 SEO](everything-i-know/seo/README.md)
@@ -76,3 +77,4 @@
 * [Instagram](https://instagram.com/rubrodc)
 * [Twitter](https://twitter.com/rubrodc)
 * [Pinterest](https://www.pinterest.pt/rubrodc/_saved/)
+

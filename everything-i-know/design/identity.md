@@ -56,4 +56,7 @@ We need to hear him and he needs to trust us, so when we go back and we do recom
 
 ## Links
 
+<<<<<<< HEAD
 * [Logo Book](http://www.logobook.com/) - Discover the worlds finest logos, symbols & trademarks.
+=======
+>>>>>>> e0b303589f3a6fb0a90f26c5c605ec8c0dba7342

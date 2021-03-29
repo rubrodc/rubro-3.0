@@ -41,3 +41,4 @@
 * [Zettelkasten](https://zettelkasten.de/)
 * [What {note taking\|team wiki\|personal wiki\|external brain} tool do you use?](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki)
 * [Uses This](https://usesthis.com/) - A collection of nerdy interviews asking people from all walks of life what they use to get the job done.
+

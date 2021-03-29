@@ -2,7 +2,7 @@
 
 ## Education
 
-* Learn a new language _I'm currently learning_ [french](everything-i-know/communication/french.md)
+* Learn a new language _I'm currently learning_ [french](https://github.com/rubrodc/ruben-2.0/tree/3a7709a5e7282606e7ec417a2e08aeed71b6d12a/everything-i-know/sharing/everything-i-know/communication/french.md)
 
 ## Health Goals
 
@@ -35,3 +35,4 @@
 
 * [What are some of your personal goals right now?](https://www.reddit.com/r/AskWomen/comments/8zeqvk/what_are_some_of_your_personal_goals_right_now/) - Reddit Post
 * [Deep Thought](https://www.deepthoughtapp.com/) - To help you think about life questions, and learn from other people’s answers to them.
+

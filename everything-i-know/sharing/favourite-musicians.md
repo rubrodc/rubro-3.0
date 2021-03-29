@@ -2,8 +2,6 @@
 
 ## TOP 10
 
-
-
 ### Hip Hop / Rap
 
 * [Profjam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP?si=H3lzdRxqSQu3yu7f0DuWqg)
@@ -31,6 +29,8 @@
 * [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao?si=SXLXoM3wT26Igw2K4jheFA)
 
 ### Fado
-* [Carlos do Carmo]()
-* [Camané]()
-* [Amália Rodrigues]()
+
+* [Carlos do Carmo](favourite-musicians.md)
+* [Camané](favourite-musicians.md)
+* [Amália Rodrigues](favourite-musicians.md)
+

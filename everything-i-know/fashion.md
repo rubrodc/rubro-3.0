@@ -4,24 +4,24 @@ I keep a inspiration board on my [Pinterest](https://www.pinterest.pt/rubrodc/_s
 
 ## Notes
 
-Lost ideas from college time. I had a fashion course too ;\)   
+Lost ideas from college time. I had a fashion course too ;\)  
 Below are some concepts and key ideas from my college essays.
 
-#### Sportswear
+### Sportswear
 
 * Fashion can gain several “ramifications” from a single style
 * You can't dress just because it's fashionable, you have to match also with the person and his attitude towards society.
 * Everything evolves, mainly the manufacturing materials and technologies.
 * In the 1960s, nobody wore tennis shoes. The sneakers were only to be used on special occasions and for playing sports.
 
-#### Electronic Music
+### Electronic Music
 
 * Fashion is also linked to a type of people who identify with a certain movement, feeling or cult;
 * Many elements and accessories that were once in fashion reappear, but with a different approach, whether it be recycling or giving a new meaning;
 * Today fashion is not so linear and everyone can wear what they want;
 * Color, Drugs, Psychedelics, Movements, Groups, Party, Fun, Technology, Music, Change of the millennium.
 
-#### Militarism
+### Militarism
 
 * Fashion has no or does not need to have tangible and objective justifications. It looks beautiful and ready.
 * What is worn by someone can become an icon and become everyone's desire.
@@ -31,6 +31,7 @@ Below are some concepts and key ideas from my college essays.
 * Fashion is susceptible to beliefs, religions and cultures.
 
 ## Instagram accounts
+
 * [Alessandro Squarzi](https://www.instagram.com/alessandrosquarzi/)
 * [Luca Rubinacci](https://www.instagram.com/luca_rubinacci/)
 * [Shuhei Nishiguchi](https://www.instagram.com/shuhei_nishiguchi/)
@@ -47,3 +48,4 @@ Below are some concepts and key ideas from my college essays.
 ## Links
 
 * [In Praise of Dressing Well](https://magazine.brooksbrothers.com/praise-dressing-well/) - by David Coggins
+
