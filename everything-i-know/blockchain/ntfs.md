@@ -14,4 +14,5 @@ Non-fungible tokens are used to create verifiable\[[how?](https://en.wikipedia.o
 * [How to Create NFTs with IPFS and Digital Art](https://medium.com/pinata/ipfs-nfts-and-persistent-artwork-50a129587a36)
 * [NTF Games](https://cryptalker.com/best-nft-games/)
 * [SuperRare](https://superrare.co/) - Authentic Digital Art Marketplace.
-
+* [Ghost Market](https://ghostmarket.io/) - The first cross-chain NFT marketplace.
+Sell, Discover, Create and Buy Phantasma & NEO Collectibles.

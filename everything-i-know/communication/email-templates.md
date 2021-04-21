@@ -2,7 +2,7 @@
 
 You never know when this could come in handy so I keep a collection of email templates ready just in case. This are taken from different websites.
 
-### Job Search Help: Anyone Else 
+### Job Search Help: Anyone Else
 
 > [https://www.themuse.com/advice/job-searching-4-email-templates-thatll-make-asking-for-help-so-much-easier](https://www.themuse.com/advice/job-searching-4-email-templates-thatll-make-asking-for-help-so-much-easier)
 
@@ -22,3 +22,5 @@ _Thanks,\[Your Name\]_
 
 \_\_
 
+##Links
+[How to Decline a Project While Helping The Client Succeed](https://mattolpinski.com/articles/declining-client-projects/)
