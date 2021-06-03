@@ -8,6 +8,8 @@
 
 ### BB - Bollinger Bands
 
+### SMA - Simple Moving Average
+
 ## Patterns
 
 

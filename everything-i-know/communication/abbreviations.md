@@ -24,4 +24,4 @@ An abbreviation is a shortening by any of these, or other, methods.
 * ICO - Initial Coin Offering
 * ROI - Return of Investment
 * BPM - Business Process Management
-
+* LGTM - Looks Good To Me
