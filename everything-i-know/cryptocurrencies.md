@@ -8,8 +8,8 @@ Currently I'm HODLing
 * ETH
 * LTC
 * DASH
-* ADA
-* DOT
+* XTZ
+* BTT
 * BAT
 * DOGE ofc such gains much wow
 
