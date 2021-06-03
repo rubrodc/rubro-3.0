@@ -47,6 +47,8 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 * [Index Grafik](http://indexgrafik.fr/)
 * [A framework for simple](https://docs.google.com/presentation/d/199Soy6c77tpttuJD_8atcSfBevJMJRSXswzBibbuqOI/pub?start=false&loop=false&delayms=3000&slide=id.p) - Jeff Hilnbrand
 * [101 Design Rules by Brian Collins](https://www.wearecollins.com/ideas/101-design-rules/)
+* [Build a body of work](https://refinedmind.co/build-a-body-of-work)
+* [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
 
 
 ## Resources
@@ -54,4 +56,3 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 * [Unsplash](https://unsplash.com/) - Free Commercial photos
 * [Figma](https://www.figma.com/) - the collaborative interface design tool.
 * [DrawBot](https://www.drawbot.com/index.html) -  Create generative graphics
-
