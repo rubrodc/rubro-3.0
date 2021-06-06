@@ -22,5 +22,6 @@ _Thanks,\[Your Name\]_
 
 \_\_
 
-##Links
-[How to Decline a Project While Helping The Client Succeed](https://mattolpinski.com/articles/declining-client-projects/)
+## Links
+* [How to Decline a Project While Helping The Client Succeed](https://mattolpinski.com/articles/declining-client-projects/)
+* [69+ Catchy Email Subject Lines For Job Application](https://thebrandboy.com/email-subject-lines-for-job-application/)
