@@ -77,6 +77,24 @@
 * Vous avez - \(Vúzavê\)
 * Ills / Elles ont - \(Ilzon, Élezon\)
 
+### Le verb "faire" (to do, to make)
+
+* Je
+* Tu
+* Il
+* Nous
+* Vous
+* Ills
+
+### Le verb "dire" (to say, to tell)
+
+* Je
+* Tu
+* Il
+* Nous
+* Vous
+* Ills
+
 ### Le verbe "aller" \(alê - to go\)
 
 * Je vais - \(Ja vé\)
@@ -92,13 +110,60 @@
 * Comment ca va? _Comôn cá vá?_
   * Ça va, merci. _Çá vá, mércii_
 
+
+### Le verb "voir" (to see)
+
+* Je vois
+* Tu vois
+* Il voit
+* Nous voyons
+* Vous voyez
+* Ills voient
+
+### Le verb "savoir" (to know)
+
+* Je
+* Tu
+* Il
+* Nous
+* Vous
+* Ills
+
+### Le verb "pouvoir" (can, to be able to)
+
+* Je
+* Tu
+* Il
+* Nous
+* Vous
+* Ills
+
+### Le verb "vouloir" (to do, to want)
+
+* Je
+* Tu
+* Il
+* Nous
+* Vous
+* Ills
+
+### Le verb "devoir" (must, to have to)
+
+* Je
+* Tu
+* Il
+* Nous
+* Vous
+* Ills
+
+
 ### Le verbe "manger" (to eat)
 * Je mange
 * Tu mange
 * Il mange
 * Nous mangeons
 * vous mangez
-* ils mangeant 
+* ils mangeant
 
 ## Links
 
