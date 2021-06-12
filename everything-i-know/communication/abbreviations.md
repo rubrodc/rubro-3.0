@@ -25,3 +25,4 @@ An abbreviation is a shortening by any of these, or other, methods.
 * ROI - Return of Investment
 * BPM - Business Process Management
 * LGTM - Looks Good To Me
+

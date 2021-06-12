@@ -197,7 +197,7 @@ Not sure if it's "perfect," but this is what I do:
 3. Professional account, used only for work-related email, tied to a GV number on my business card.
 4. Financial account, used only for my banking logins, .gov logins, the important stuff.
 
-
-
 ## Links
+
 [How video games are changing my life](https://www.youtube.com/watch?v=Rim2rXIbVoA)
+

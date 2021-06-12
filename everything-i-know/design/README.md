@@ -49,8 +49,6 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 * [101 Design Rules by Brian Collins](https://www.wearecollins.com/ideas/101-design-rules/)
 * [Build a body of work](https://refinedmind.co/build-a-body-of-work)
 
-
-
 ## Resources
 
 * [Unsplash](https://unsplash.com/) - Free Commercial photos
@@ -60,3 +58,4 @@ All things related to Design field. From ideas, notes, tutorials to resources.
 * [Facebook Design](https://design.facebook.com/) - Free Images and Sketch files of popular devices.
 * [Spotify Design](https://spotify.design/) - Spotify Design are a cross-disciplinary product design community
 * [Dropbox Design](https://dropbox.design/) - A collection of resources for the design community from the team that is redesigning the way work works.
+

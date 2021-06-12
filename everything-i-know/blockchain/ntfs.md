@@ -15,5 +15,8 @@ Non-fungible tokens are used to create verifiable\[[how?](https://en.wikipedia.o
 * [NTF Games](https://cryptalker.com/best-nft-games/)
 * [SuperRare](https://superrare.co/) - Authentic Digital Art Marketplace.
 * [Ghost Market](https://ghostmarket.io/) - The first cross-chain NFT marketplace.
-Sell, Discover, Create and Buy Phantasma & NEO Collectibles.
-[hic et nunc tools ](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community) - Tools made by the community
+
+  Sell, Discover, Create and Buy Phantasma & NEO Collectibles.
+
+  [hic et nunc tools ](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community) - Tools made by the community
+
