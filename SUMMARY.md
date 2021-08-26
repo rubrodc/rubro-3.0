@@ -32,6 +32,7 @@
 * [🔐 Privacy](everything-i-know/privacy.md)
 * [💶 Finances](everything-i-know/finances/README.md)
   * [Trading](everything-i-know/finances/trading.md)
+  * [Investing](everything-i-know/finances/investing.md)
 * [🗃 Organization](everything-i-know/organization/README.md)
   * [Bullet Journal Ideas](everything-i-know/organization/bullet-journal-ideas.md)
 * [💈 Business](everything-i-know/business.md)

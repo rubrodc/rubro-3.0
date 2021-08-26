@@ -9,7 +9,7 @@ For 75 days straight, you must:
 * Drink a gallon of water
 * Read 10 pages of a book
 * Not have alcohol or cheat meals
-* Do 2 45-min workouts (1 outdoors)
+* Do 2 45-min workouts \(1 outdoors\)
 
 ## Planing
 
@@ -17,9 +17,9 @@ For 75 days straight, you must:
 * Go to bed by 9pm
 * Wake up by 6am
 * Write your answer to the question
-* Do breathing techniques (eg. Wim Hof Method)
+* Do breathing techniques \(eg. Wim Hof Method\)
 * Go outside for a moment
-* Spend at least half an hour on a fun hobby (eg. music)
+* Spend at least half an hour on a fun hobby \(eg. music\)
 * Do some bodyweight / kettlebell exercises
 * Go for a short run or walk
 * Cold shower
@@ -32,3 +32,4 @@ For 75 days straight, you must:
 * Plan tomorrow
 * Read
 * Repeat the rest of the above
+
