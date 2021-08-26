@@ -72,6 +72,7 @@
 * [📜 Rules](everything-i-know/rules.md)
 * [🏞 Survival](everything-i-know/survival.md)
 * [🧠 Psychology](everything-i-know/psychology.md)
+* [👽 Life](everything-i-know/life.md)
 
 ## Socials
 
