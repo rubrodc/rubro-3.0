@@ -23,7 +23,15 @@ How to spend money? Spend as if you will never be able to raise again.
 * Baby Step 6 – Pay off the house early
 * Baby Step 7 – Build wealth and give!
 
+## Assets i want for the 2020s
+
+* FL real estate
+* stocks that benefit from inflation
+* bitcoin/ethereum
+* Biotech stocks
+* Gold/Silver
+
 ## Links
 
 [Dave Ramsey Baby Steps](https://www.daveramsey.com/dave-ramsey-7-baby-steps) - Basics to Financial Freedom [Treat cash like a video game and you’ll avoid 'Game Over'​](https://www.linkedin.com/pulse/treat-cash-like-video-game-youll-avoid-over-robert-gardner/)
-
+[Exchange traded fund](https://www.investopedia.com/terms/e/etf.asp)
