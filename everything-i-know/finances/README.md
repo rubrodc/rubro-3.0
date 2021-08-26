@@ -33,5 +33,6 @@ How to spend money? Spend as if you will never be able to raise again.
 
 ## Links
 
-[Dave Ramsey Baby Steps](https://www.daveramsey.com/dave-ramsey-7-baby-steps) - Basics to Financial Freedom [Treat cash like a video game and you’ll avoid 'Game Over'​](https://www.linkedin.com/pulse/treat-cash-like-video-game-youll-avoid-over-robert-gardner/)
+* [Dave Ramsey Baby Steps](https://www.daveramsey.com/dave-ramsey-7-baby-steps) - Basics to Financial Freedom 
+* [Treat cash like a video game and you’ll avoid 'Game Over'​](https://www.linkedin.com/pulse/treat-cash-like-video-game-youll-avoid-over-robert-gardner/)
 [Exchange traded fund](https://www.investopedia.com/terms/e/etf.asp)
