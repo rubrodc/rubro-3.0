@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "everything-i-know/business.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "everything-i-know/business.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,9 @@
   },
   "active": "406841fac77d78ae",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "meta.md",
+    "README.md",
     "everything-i-know/business.md"
   ]
 }
