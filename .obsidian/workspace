@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "blockchain/Tokenomics.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 189
   },
   "right": {
     "id": "e3ba6d4a6fb5b3cd",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "blockchain/Tokenomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,15 @@
   },
   "active": "406841fac77d78ae",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "meta.md",
-    "README.md",
-    "everything-i-know/business.md"
+    "blockchain/Tokenomics.md",
+    "blockchain/README.md",
+    "blockchain/ntfs.md",
+    "blockchain/Cryptocurrencies.md",
+    "Arts/TV Series.md",
+    "Arts/photography.md",
+    "Arts/Music.md",
+    "Arts/Drawing and painting.md",
+    "Arts/README.md",
+    "Arts/literature.md"
   ]
 }

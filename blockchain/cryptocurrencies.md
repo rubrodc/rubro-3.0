@@ -1,4 +1,4 @@
-# 💲 Cryptocurrencies
+# Cryptocurrencies
 
 ## My Crypto
 
