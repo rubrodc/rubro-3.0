@@ -4,7 +4,7 @@
 * [🐣 New? Start here](meta.md)
 
 ## Everything I know
-
+* [💈 Business](everything-i-know/business.md)
 * [🙋🏻‍♂️ About](everything-i-know/sharing/README.md)
   * [About me](everything-i-know/sharing/about-me.md)
   * [CV / Resume](everything-i-know/sharing/cv-resume.md)
@@ -35,7 +35,6 @@
   * [Investing](everything-i-know/finances/investing.md)
 * [🗃 Organization](everything-i-know/organization/README.md)
   * [Bullet Journal Ideas](everything-i-know/organization/bullet-journal-ideas.md)
-* [💈 Business](everything-i-know/business.md)
 * [💕 Love](everything-i-know/love.md)
 * [🏛 Politics](everything-i-know/politics.md)
 * [🆒 Social Media](everything-i-know/social-media/README.md)
