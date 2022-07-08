@@ -1,5 +1,7 @@
 # 💈 Business
 
+this is a test
+
 > Take something that people do, and remove a step \(or make that step very very easy\). That's the key to a successful startup.
 
 ## Links

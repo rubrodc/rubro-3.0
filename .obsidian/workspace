@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "70465263de9d1740",
+    "type": "split",
+    "children": [
+      {
+        "id": "406841fac77d78ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "everything-i-know/business.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e55c127816f1e66",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d7f83325e86882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccfb2f99dd15b6ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2367ec9c13712708",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3ba6d4a6fb5b3cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ac18a98fe7139be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f6a7bfb477a6219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "everything-i-know/business.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "406841fac77d78ae",
+  "lastOpenFiles": [
+    "everything-i-know/business.md"
+  ]
+}
