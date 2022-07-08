@@ -1,4 +1,4 @@
-# ✉️ Email Templates
+# Email Templates
 
 You never know when this could come in handy so I keep a collection of email templates ready just in case. This are taken from different websites.
 

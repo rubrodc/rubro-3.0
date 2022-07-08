@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blockchain/Tokenomics.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "business",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blockchain/Tokenomics.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "406841fac77d78ae",
   "lastOpenFiles": [
-    "blockchain/Tokenomics.md",
+    "SUMMARY.md",
+    "Communication/storytelling.md",
+    "Communication/Email Templates.md",
+    "Communication/Abbreviations.md",
+    "Communication/Questions to ask recruiters.md",
+    "everything-i-know/business.md",
+    "Blockchain/Tokenomics.md",
     "blockchain/README.md",
-    "blockchain/ntfs.md",
-    "blockchain/Cryptocurrencies.md",
-    "Arts/TV Series.md",
-    "Arts/photography.md",
-    "Arts/Music.md",
-    "Arts/Drawing and painting.md",
-    "Arts/README.md",
-    "Arts/literature.md"
+    "Blockchain/ntfs.md",
+    "Blockchain/Cryptocurrencies.md"
   ]
 }

@@ -1,4 +1,4 @@
-# 🔤 Abbreviations
+# Abbreviations
 
 This is a list of some abbreviations I've come across.
 

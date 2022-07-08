@@ -1,4 +1,4 @@
-# 💈 Business
+# Business
 
 this is a test
 

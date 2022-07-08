@@ -4,8 +4,12 @@
 * [🐣 New? Start here](meta.md)
 
 ## Everything I know
+* [Arts](arts.md)
+	* [[Drawing and painting]]
 * [💈 Business](everything-i-know/business.md)
 * [🙋🏻‍♂️ About](everything-i-know/sharing/README.md)
+
+
   * [About me](everything-i-know/sharing/about-me.md)
   * [CV / Resume](everything-i-know/sharing/cv-resume.md)
   * [What I'm doing now](everything-i-know/sharing/what-im-doing-now.md)
@@ -43,7 +47,7 @@
 * [👔 Fashion](everything-i-know/fashion.md)
 * [✈️ Travel](everything-i-know/travel.md)
 * [⛓ Blockchain](blockchain/README.md)
-  * [💲 Cryptocurrencies](blockchain/Cryptocurrencies.md)
+  * [💲 Cryptocurrencies](Blockchain/Cryptocurrencies.md)
   * [🪙 NTFs](ntfs.md)
 * [🪴 Plants](everything-i-know/plants.md)
 * [🎮 Games](everything-i-know/games.md)
@@ -58,10 +62,10 @@
 * [📱 iOS Apps](everything-i-know/ios-apps.md)
 * [🇫🇷 French](everything-i-know/french/README.md)
   * [Verbs](everything-i-know/french/verbs.md)
-* [🗣 Communication](everything-i-know/communication/README.md)
-  * [🔤 Abbreviations](everything-i-know/communication/abbreviations.md)
-  * [✉️ Email Templates](everything-i-know/communication/email-templates.md)
-  * [Storytelling](everything-i-know/communication/storytelling.md)
+* [🗣 Communication](Questions%20to%20ask%20recruiters.md)
+  * [🔤 Abbreviations](Abbreviations.md)
+  * [✉️ Email Templates](Email%20Templates.md)
+  * [Storytelling](storytelling.md)
 * [👨‍🏫 TIL](everything-i-know/til.md)
 * [🤸🏻‍♂️ Hobbies](everything-i-know/hobbies/README.md)
   * [🎣 Fishing](everything-i-know/hobbies/fishing.md)

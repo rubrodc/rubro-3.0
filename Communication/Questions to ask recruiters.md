@@ -1,6 +1,4 @@
-# 🗣 Communication
-
-## Questions to ask recruiters
+# Questions to ask recruiters
 
 from [Landing.Jobs Newsletter](https://landing.jobs/home)
 
