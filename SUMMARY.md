@@ -4,7 +4,7 @@
 * [🐣 New? Start here](meta.md)
 
 ## Everything I know
-* [Arts](arts.md)
+* [Arts]
 	* [[Drawing and painting]]
 * [💈 Business](everything-i-know/business.md)
 * [🙋🏻‍♂️ About](everything-i-know/sharing/README.md)
